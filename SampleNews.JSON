@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Felix White: Major League Calling",
+    "description": "Tailenders' podcaster Felix White trades cricket for baseball as he visits Fenway Park to prepare to commentate on New York Yankees v Boston Red Sox live on the BBC this Saturday,",
+    "url": "http://www.bbc.co.uk/sport/av/baseball/62996346",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F5D3/production/_126813926_p0d1y25r.jpg",
+    "publishedAt": "2022-09-22T12:52:30.5672805Z",
+    "content": "Eddie Butler - the player, the voice, the legend. Video, 00:04:12Eddie Butler - the player, the voice, the legend"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Katherine Clarke",
+    "title": "The Luxury Home Market Posts Its Biggest Decline in a Decade. ‘It’s Like Crickets.’",
+    "description": "After a pandemic-induced bull run, the high-end market has finally faltered thanks to inflation, recession fears and rising interest rates.",
+    "url": "https://www.wsj.com/articles/the-luxury-home-market-posts-its-biggest-decline-in-a-decade-its-like-crickets-11663795015?mod=hp_lead_pos10",
+    "urlToImage": "https://images.wsj.net/im-627523/social",
+    "publishedAt": "2022-09-22T12:45:00Z",
+    "content": "When Nancy Lam upgraded in January to a home closer to her childs school in the San Francisco Bay Area, she thought she had plenty of time to list her old house, a five-bedroom modern home in the sou… [+436 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
